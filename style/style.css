@@ -1,0 +1,389 @@
+
+
+header{
+max-width: 82%;
+margin: auto;
+margin-top: 30px;
+/* height: 600px; */
+
+}
+.fast-header{
+   background-image: url("../resources/BannerImage.png");
+   
+   
+
+    border-radius: 16px;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.fast-heading-text{
+    margin-top: 16px;
+    margin-bottom: 84px
+
+}
+.fast-heading-text h4{
+    color: #FFF;
+    margin-top: 108px;
+    margin-bottom: 19px;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.fast-heading-text h2{
+    color: white;
+    font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px;
+letter-spacing: 0em;
+text-align: center;
+
+
+
+}
+
+.second-heading-text h1{
+    font-family: Inter;
+    color: #FF0000;
+font-size: 88px;
+font-weight: 700;
+line-height: 107px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.second-heading-text h5{
+
+    font-family: Inter;
+    color: #FF0000;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.second-heading-text h2{
+
+    font-family: Inter;
+    color: #070211;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+    
+.new-year-img{
+    min-height: 30vh;
+    width: 802.9px
+height: 500px
+top: 1076px
+left: 399px
+
+
+
+}
+
+.therd-header{
+    background-image: url("../Vectorrr.png");
+    border-radius: 16px;
+    
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+.therd-heading-text h2{
+    color: white;s
+   
+    font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px;
+letter-spacing: 0.11em;
+
+
+
+}
+
+.therd-heading-text p{
+    color: #FFFFFFCC;
+    font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.therd-heading-text button{
+    font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
+
+}
+
+.new{
+    background: rgb(255, 235, 235);
+    max-width: 1320px;
+    height: 435px;
+    
+   
+
+}
+
+.section-dscription button{
+    background: #FF0000;
+    color: white;
+    width: 137px;
+    height: 58px;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 16px, 32px, 16px, 32px;
+    align-items: center;
+  
+}
+
+.text-orange{
+    color: #FF0000;
+   
+
+}
+
+.button-desing{
+
+    background: #FF0000;
+    color: white;
+    width: 137px;
+    height: 58px;
+    font-size: 20px;
+    border-radius: 8px;
+    padding: 16px, 32px, 16px, 32px;
+    align-items: center;
+
+
+}
+                
+.new-text span{
+    color: #FF0000;
+    font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0em;
+ align-items: center;
+
+
+}
+.new-text{
+    font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0em;
+ align-items: center;
+ text-align: center;
+ 
+
+    
+}
+
+.container h5{
+    color: UIColor(red: 0.03, green: 0.01, blue: 0.07, alpha: 1);
+    font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+}
+.container span{
+    color: #FF0000;
+    font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+line-height: 91px;
+letter-spacing: 0em;
+text-align: center;
+
+font-family: Inter;
+font-size: 72px;
+font-weight: 700;
+line-height: 87px;
+letter-spacing: 0em;
+text-align: center;
+
+
+
+}
+.container h1{
+    font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+line-height: 91px;
+letter-spacing: 0em;
+text-align: center;
+
+font-family: Inter;
+font-size: 72px;
+font-weight: 700;
+line-height: 87px;
+letter-spacing: 0em;
+text-align:  center;
+
+
+
+}
+
+.container h5{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0em;
+text-align:center;
+
+
+
+
+}
+.container p{
+    color: UIColor(red: 0.03, green: 0.01, blue: 0.07, alpha: 0.6);
+    font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: center;
+
+
+
+}
+
+.forth-header-text h4{
+    color: rgba(255, 0, 0, 1);
+    font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+}
+.forth-header-text h2{
+    color: rgba(7, 2, 17, 1);
+    font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+}
+
+.forth-header-text p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+}
+.section-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    width: 424px
+height: 450px
+top: 4946.07px
+left: 140px
+border-radius: 16px
+
+}
+
+.five-heading{
+    background: rgb(255, 255, 255);
+    
+    
+
+
+}
+
+.five-heading-text h1{
+    font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: center;
+}
+.five-heading-text p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: center;
+    
+
+
+}
+.fotter h3{
+    color: white;
+   justify-content: space-between;
+
+
+}
+.icon-title h4{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    
+
+
+
+}
+.icon{
+    display: flex;
+    justify-content: center;
+
+}
+.fotter-desing{
+    background: rgb(7, 2, 17);
+
+
+}
